@@ -31,3 +31,10 @@ Mountain View to pick up the two units.
 
 # The HP 8007A Pulse Generator
 
+
+# References
+
+* [Reverse-Engineering an IC to fix an HP 8007A Pulse generator](http://www.dasarodesigns.com/projects/reverse-engineering-an-ic-to-fix-an-hp-8007a-pulse-generator/)
+* https://www.curiousmarc.com/instruments/hp-8082a-pulse-generator
+* [8015A - A Pulse Generator for Today's Digital Circuits](https://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1973-10.pdf)
+* [Fundamentals of Time Interval Measurements](https://ilrs.gsfc.nasa.gov/docs/time_interval_measurements.pdf)
